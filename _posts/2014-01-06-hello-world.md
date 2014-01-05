@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title: Hello, world!
 ---
 <h2>{{ page.title }}</h2>
 <p>我的第一篇文章</p>
